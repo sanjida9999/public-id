@@ -1,6 +1,6 @@
 #Script Given By Tech Qaiser
 #Script Is Given For Educational Purpose
-#Script Edited By @YourName
+#Script Edited By Sanjida
 #Utf-8 python 
 
 try:
